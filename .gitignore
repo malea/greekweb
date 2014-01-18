@@ -1,0 +1,11 @@
+# Vim
+*~
+.*.swp
+
+# OS X
+.DS_Store
+
+# Python
+__pycache__
+*.pyc
+*.pyo
