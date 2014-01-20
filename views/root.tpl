@@ -15,7 +15,14 @@
         <title> Greek Web </title>
     </head>
     <body>
-        <a href="/login" class="btn btn-warning">Log In</a>
+        <div class="jumbotron">
+        <h1> Hello, Greeks!</h1>
+        <p>
+        Input shallow, exciting, text here in order to make Greeks excited.
+        </p>
+        <p><a class="btn btn-primary btn-lg" role="button" href="/login">Log in</a></p>
+        </div>
+        
 
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
