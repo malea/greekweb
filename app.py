@@ -9,8 +9,9 @@ def root():
     return {}
 
 @app.route('/login')
+@bottle.view('login')
 def login():
-    return '<a href="/">Return home</a>'
+    return {}
 
 @app.route('/js/<filename>')
 def js(filename):
